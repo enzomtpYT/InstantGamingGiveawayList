@@ -31,25 +31,25 @@
     <a href="https://www.instant-gaming.com/fr/giveaway/ICONOBLAST" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/173704-1571080323.jpg" alt="IconoBLAST" width="76" height="76" />
     </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/bugland" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/3009082-1540312665.jpg" alt="Bugland" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/GAMEMOVIELAND" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/170629-1547987125.jpg" alt="Game Movie Land" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/CODQG" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/452863-1561392211.jpg" alt="CoDQG" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/NALFEINN" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/2210688-1649113160.jpg" alt="Nalfeïnn" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/VARG" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/5518320-1553640087.jpg" alt="Varg31" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/thefishou" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/themes/igv2/images/avatar.svg" alt="TheFishou" width="76" height="76" />
+    </a> 
 <!--     <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
     <a href="" target="_blank" rel="noreferrer">
