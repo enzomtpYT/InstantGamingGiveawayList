@@ -27,11 +27,11 @@
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/SUPREMELEADER" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/1716955-1681777192.jpg" alt="PwnZ Official IG partner" width="76" height="76" />
-<!--     </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
     </a> 
-    <a href="" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/fr/giveaway/ICONOBLAST" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/173704-1571080323.jpg" alt="IconoBLAST" width="76" height="76" />
+    </a> 
+<!--     <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
     <a href="" target="_blank" rel="noreferrer">
