@@ -46,9 +46,6 @@
     <a href="https://www.instant-gaming.com/fr/giveaway/VARG" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5518320-1553640087.jpg" alt="Varg31" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/thefishou" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/themes/igv2/images/avatar.svg" alt="TheFishou" width="76" height="76" />
-    </a> 
 <!--     <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
