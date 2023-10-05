@@ -1,8 +1,10 @@
 # InstantGaming's Giveaway List
 
-Cliquez sur les pictogrammes et suivez les instructions
+## Comment faire ?
 
-## French
+Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images et suivez les instructions donnée par le site !
+
+### French
 
 <p align="left">
     <a href="https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=enzomtp" target="_blank" rel="noreferrer">
@@ -295,7 +297,7 @@ Cliquez sur les pictogrammes et suivez les instructions
     </a>  -->
 </p>
 
-## Not working anymore
+### Not working anymore
 
 <p align="left">
     <a href="https://www.instant-gaming.com/fr/giveaway/linca?igr=enzomtp" target="_blank" rel="noreferrer">
