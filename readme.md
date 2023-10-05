@@ -66,7 +66,55 @@
     <a href="https://www.instant-gaming.com/fr/giveaway/GAMEWAVE?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/3297504-1554723487.jpg" alt="GAMEWAVE" width="76" height="76" />
     </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/RATSUPER?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/162664-1527173086.jpg" alt="Mr_RatSup3r" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/YANKA?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/17791717-1684537536.jpg" alt="Yanka" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/cissouryne?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/7984380-1676733343.jpg" alt="Cissouryne" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/STREAMRUNNERS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/15530490-1634564097.jpg" alt="StreamRunners" width="76" height="76" />
+    </a> 
 <!--     <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+        <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+        <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
     <a href="" target="_blank" rel="noreferrer">
