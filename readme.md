@@ -198,105 +198,94 @@
         <a href="https://www.instant-gaming.com/fr/giveaway/ELOTRIX?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/9351061-1578514985.jpg" alt="ELoTRiX" width="76" height="76" />
     </a> 
-<!--     <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-        <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-        <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-        <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a>  -->
-</p>
-
-## Italian
-
-<p align="left">
-    <a href="https://www.instant-gaming.com/it/giveaway/NYKK3?igr=enzomtp" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/fr/giveaway/NYKK3?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/560668-1500305390.jpg" alt="NYKK3" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/it/giveaway/PLAYERINSIDE?igr=enzomtp" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/fr/giveaway/PLAYERINSIDE?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/1115181-1694833323.jpg" alt="PlayerInside" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/it/giveaway/ILGATTOSULTUBO?igr=enzomtp" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/fr/giveaway/ILGATTOSULTUBO?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/539151-1690300630.jpg" alt="ilGatto" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/it/giveaway/FRANCESCOPARDINI?igr=enzomtp" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/fr/giveaway/FRANCESCOPARDINI?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/9461224-1581008870.jpg" alt="Francesco Pardini" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/it/giveaway/NU89?igr=enzomtp" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/fr/giveaway/NU89?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/3123668-1636629261.jpg" alt="NU89" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/it/giveaway/ITERMOSIFONI?igr=enzomtp" target="_blank" rel="noreferrer">
+    <a href="https://www.instant-gaming.com/fr/giveaway/ITERMOSIFONI?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/811973-1557938063.jpg" alt="i Termosifoni" width="76" height="76" />
     </a> 
 <!--     <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+        <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+        <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
     <a href="" target="_blank" rel="noreferrer">
