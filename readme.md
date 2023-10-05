@@ -1,5 +1,7 @@
 # InstantGaming's Giveaway List
 
+Cliquez sur les pictogrammes et suivez les instructions
+
 ## French
 
 <p align="left">
