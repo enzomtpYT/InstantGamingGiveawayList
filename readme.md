@@ -4,7 +4,7 @@
 
 Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images et suivez les instructions donnée par le site !
 
-### French
+### Giveaway
 
 <p align="left">
     <a href="https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=enzomtp" target="_blank" rel="noreferrer">
@@ -297,7 +297,7 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     </a>  -->
 </p>
 
-### Not working anymore
+### Fonctionne plus
 
 <p align="left">
     <a href="https://www.instant-gaming.com/fr/giveaway/linca?igr=enzomtp" target="_blank" rel="noreferrer">
