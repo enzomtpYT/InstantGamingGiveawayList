@@ -78,6 +78,69 @@
     <a href="https://www.instant-gaming.com/fr/giveaway/STREAMRUNNERS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15530490-1634564097.jpg" alt="StreamRunners" width="76" height="76" />
     </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/DIOGOESTEVES?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/15100457-1629461201.jpg" alt="DiogoEsteves91" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/MeetTheMyth?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/911134-1650630244.jpg" alt="MeetTheMyth" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/PHENRIR?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16050488-1638352180.jpg" alt="Phenrir Mailoki" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/JOGASIMPLES?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/4910326-1659026696.jpg" alt="jogasimples" width="76" height="76" />
+    </a> 
+        <a href="https://www.instant-gaming.com/fr/giveaway/GMODFR?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/15499812-1646775114.jpg" alt="Garrys Mod France" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/JULIXSZ?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/17310739-1649259316.jpg" alt="JulixSz" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/EUROGAMERPT?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/17661741-1655123091.jpg" alt="EurogamerPT" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/DIABEUU?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16462243-1641829012.jpg" alt="Diabeuu" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/MAFIOSOCREW?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/11440112-1623919337.jpg" alt="Mafioso Crew" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/YAMBALU?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/1299958-1667123766.jpg" alt="Yambalú" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/INSTANTGAMINGES?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/825485-1683532505.jpg" alt="Instant Gaming ES" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/ACRE?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/2550652-1614044439.jpg" alt="Acre" width="76" height="76" />
+    </a> 
+        <a href="https://www.instant-gaming.com/fr/giveaway/BILLYCHEROKEE?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/2072378-1604485229.jpg" alt="BillyCherokee" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/LYNX?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/2437583-1659723926.jpg" alt="Lynx" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/TUBERVIEJUNER?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/9996845-1664208358.jpg" alt="Tuberviejuner" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/ZONALEROS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/13745456-1614222765.jpg" alt="ZonaLeRoS" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/GUIGUI?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/262337-1647999658.jpg" alt="El Guigui" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/PORAID?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/5324059-1634130045.jpg" alt="Cl3ment" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/PORTALGAMER?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/14576258-1649363215.jpg" alt="portalgamer" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/INSTANTGAMINGPT?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16693760-1689603180.jpg" alt="InstantGamingPT" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/RADWEASEL?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/1963208-1580302628.jpg" alt="Rad Weasel" width="76" height="76" />
+    </a> 
 <!--     <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
@@ -91,6 +154,24 @@
         <img src="" alt="" width="76" height="76" />
     </a> 
         <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+        <a href="" target="_blank" rel="noreferrer">
+        <img src="" alt="" width="76" height="76" />
+    </a> 
+    <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
     <a href="" target="_blank" rel="noreferrer">
