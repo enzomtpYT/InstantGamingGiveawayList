@@ -43,13 +43,13 @@
     <a href="https://www.instant-gaming.com/fr/giveaway/VARG?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5518320-1553640087.jpg" alt="Varg31" width="76" height="76" />
     </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/L0LKHALIA?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/4967993-1592414336.jpg" alt="l0lkhalia" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/skyyart" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/8099122-1564755224.jpg" alt="Skyyart" width="76" height="76" />
+    </a> 
 <!--     <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
     <a href="" target="_blank" rel="noreferrer">
