@@ -13,9 +13,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12254287-1660306272.jpg" alt="Bob Lennon" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
-    </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/PIXIA?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7831487-1561130856.jpg" alt="Pixia" width="76" height="76" />
     </a> 
@@ -303,4 +300,7 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/linca?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/19908306-1688124711.jpg" alt="Linca" width="76" height="76" />
     </a>
+    <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
+    </a> 
 </p>
