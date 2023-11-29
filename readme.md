@@ -214,6 +214,9 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/ITERMOSIFONI?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/811973-1557938063.jpg" alt="i Termosifoni" width="76" height="76" />
     </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
+    </a>
 <!--     <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
@@ -296,9 +299,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
 <p align="left">
     <a href="https://www.instant-gaming.com/fr/giveaway/linca?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/19908306-1688124711.jpg" alt="Linca" width="76" height="76" />
-    </a>
-    <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
     </a>
     <a href="https://www.instant-gaming.com/fr/giveaway/MFGAMING?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/17307721-1649242244.jpg" alt="MFGAMING" width="76" height="76" />
