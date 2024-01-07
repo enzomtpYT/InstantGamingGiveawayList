@@ -303,4 +303,7 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
     </a>
+    <a href="https://www.instant-gaming.com/en/giveaway/souvenirsdemael?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/2274022-1700917198.jpg" alt="Souvenirs De Mael" width="76" height="76" />
+    </a>
 </p>
