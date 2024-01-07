@@ -100,9 +100,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/EUROGAMERPT?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/17661741-1655123091.jpg" alt="EurogamerPT" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/DIABEUU?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/16462243-1641829012.jpg" alt="Diabeuu" width="76" height="76" />
-    </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/MAFIOSOCREW?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/11440112-1623919337.jpg" alt="Mafioso Crew" width="76" height="76" />
     </a> 
@@ -302,5 +299,8 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     </a>
     <a href="https://www.instant-gaming.com/fr/giveaway/RADWEASEL?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/1963208-1580302628.jpg" alt="Rad Weasel" width="76" height="76" />
+    </a> 
+        <a href="https://www.instant-gaming.com/fr/giveaway/DIABEUU?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16462243-1641829012.jpg" alt="Diabeuu" width="76" height="76" />
     </a> 
 </p>
