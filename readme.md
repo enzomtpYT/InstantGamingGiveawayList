@@ -169,9 +169,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/INSTANTGAMINGITALIA?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7534356-1687868492.jpg" alt="InstantGamingIT" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/domtendo?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/12234229-1675198346.jpg" alt="Domtendo" width="76" height="76" />
-    </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/INFOPOINT-ITALIA?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5022391-1620639580.jpg" alt="Infopoint-Italia" width="76" height="76" />
     </a> 
@@ -302,5 +299,8 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/MAFIOSOCREW?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/11440112-1623919337.jpg" alt="Mafioso Crew" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/domtendo?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/12234229-1675198346.jpg" alt="Domtendo" width="76" height="76" />
     </a> 
 </p>
