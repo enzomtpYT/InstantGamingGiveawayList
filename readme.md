@@ -115,9 +115,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/LYNX?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/2437583-1659723926.jpg" alt="Lynx" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/TUBERVIEJUNER?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/9996845-1664208358.jpg" alt="Tuberviejuner" width="76" height="76" />
-    </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/ZONALEROS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/13745456-1614222765.jpg" alt="ZonaLeRoS" width="76" height="76" />
     </a> 
@@ -143,19 +140,12 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
         <img src="https://gaming-cdn.com/images/avatars/767265-1595434670.jpg" alt="Xariel" width="76" height="76" />
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/POKEMONMILLENNIUM?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/8857101-1582127081.jpg" alt="Pokemon Millennium" width="76" height="76" />
-    </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/SEV?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/10224464-1585925716.jpg" alt="Sev" width="76" height="76" />
-    </a> 
+        <img src="https://gaming-cdn.com/images/avatars/8857101-1582127081.jpg" alt="Pokemon Millennium" width="76" height="76"/>
     <a href="https://www.instant-gaming.com/fr/giveaway/AQUIYAHORA?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5219782-1581748271.jpg" alt="AquiyAhora" width="76" height="76" />
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/PIVI?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/8850456-1573572198.jpg" alt="Pivi" width="76" height="76" />
-    </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/PYPGAMERS?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/5175892-1523989408.jpg" alt="wowchakra" width="76" height="76" />
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/Seals311?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/3502745-1617900174.jpg" alt="Seals311 Official IG partner" width="76" height="76" />
@@ -174,9 +164,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/FROZ3N?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/1016668-1682448159.jpg" alt="Froz3n" width="76" height="76" />
-    </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/LUSORKOEFFIZIENT?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/8124578-1565266897.jpg" alt="lusorkoeffizient" width="76" height="76" />
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/QDSS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/8851878-1587464483.jpg" alt="QDSS" width="76" height="76" />
@@ -202,9 +189,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/ITERMOSIFONI?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/811973-1557938063.jpg" alt="i Termosifoni" width="76" height="76" />
     </a>  
-    <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
-    </a>
 <!--     <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
@@ -305,5 +289,21 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     </a>
     <a href="https://www.instant-gaming.com/en/giveaway/souvenirsdemael?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/2274022-1700917198.jpg" alt="Souvenirs De Mael" width="76" height="76" />
+    </a>
+    <a href="https://www.instant-gaming.com/fr/giveaway/TUBERVIEJUNER?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/9996845-1664208358.jpg" alt="Tuberviejuner" width="76" height="76" />
+    </a> 
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/SEV?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/10224464-1585925716.jpg" alt="Sev" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/PYPGAMERS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/5175892-1523989408.jpg" alt="wowchakra" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/LUSORKOEFFIZIENT?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/8124578-1565266897.jpg" alt="lusorkoeffizient" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
     </a>
 </p>
