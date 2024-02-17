@@ -228,9 +228,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     <a href="https://www.instant-gaming.com/fr/giveaway/JOFRIK99?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16861995-1676462477.jpg" alt="jofrik99" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/instantgaming?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/2700115-1699892940.jpg" alt="INSTANT GAMING" width="76" height="76" />
-    </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/instantgamingde?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/2700115-1699892940.jpg" alt="InstantGamingDE" width="76" height="76" />
     </a> 
@@ -292,7 +289,6 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     </a>
     <a href="https://www.instant-gaming.com/fr/giveaway/TUBERVIEJUNER?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/9996845-1664208358.jpg" alt="Tuberviejuner" width="76" height="76" />
-    </a> 
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/SEV?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/10224464-1585925716.jpg" alt="Sev" width="76" height="76" />
