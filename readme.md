@@ -1,10 +1,10 @@
 # InstantGaming's Giveaway List
 
-## Comment faire ?
+## How do i do ?
 
-Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images et suivez les instructions donnée par le site !
+You just need to create an account on Instant Gaming Website, click on each image below and follow the instruction given by the website !
 
-### Giveaway
+### Giveaways
 
 <p align="left">
     <a href="https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=enzomtp" target="_blank" rel="noreferrer">
@@ -263,7 +263,7 @@ Il suffit de se créer un compte sur instant gaming, cliquez sur chaque images e
     </a>  -->
 </p>
 
-### Fonctionne plus
+### Not working anymore
 
 <p align="left">
     <a href="https://www.instant-gaming.com/fr/giveaway/linca?igr=enzomtp" target="_blank" rel="noreferrer">
