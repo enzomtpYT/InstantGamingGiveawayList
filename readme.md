@@ -2,7 +2,10 @@
 
 ## How do i do ?
 
+### Manually
 You just need to create an account on Instant Gaming Website, click on each image below and follow the instruction given by the website !
+### Automatic
+Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate
 
 ### Giveaways
 
