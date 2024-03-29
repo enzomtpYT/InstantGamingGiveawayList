@@ -243,13 +243,13 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
     </a>
+    <a href="https://www.instant-gaming.com/fr/giveaway/laurabbyx?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/23659673-1710786509.jpg" alt="Laurabbyx" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/benzaie?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/22690348-1706715875.jpg" alt="Benzaie" width="76" height="76" />
+    </a> 
     <!-- <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
-        <img src="" alt="" width="76" height="76" />
-    </a> 
-    <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
     <a href="" target="_blank" rel="noreferrer">
