@@ -240,9 +240,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/fr/giveaway/KAMUSLOL?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15057103-1651783439.jpg" alt="KamusLoL" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
-    </a>
     <a href="https://www.instant-gaming.com/fr/giveaway/laurabbyx?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/23659673-1710786509.jpg" alt="Laurabbyx" width="76" height="76" />
     </a> 
@@ -305,4 +302,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/fr/giveaway/DIOGOESTEVES?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15100457-1629461201.jpg" alt="DiogoEsteves91" width="76" height="76" />
     </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
+    </a>
 </p>
