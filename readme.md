@@ -10,9 +10,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
 ### Giveaways
 
 <p align="left">
-    <a href="https://www.instant-gaming.com/en/giveaway/AYPIERRE?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/11592592-1594037728.jpg" alt="Aypierre" width="76" height="76" />
-    </a>
     <a href="https://www.instant-gaming.com/en/giveaway/BOBLENNON?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12254287-1660306272.jpg" alt="Bob Lennon" width="76" height="76" />
     </a> 
@@ -305,4 +302,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/en/giveaway/DIOGOESTEVES?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15100457-1629461201.jpg" alt="DiogoEsteves91" width="76" height="76" />
     </a> 
+    <a href="https://www.instant-gaming.com/en/giveaway/AYPIERRE?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/11592592-1594037728.jpg" alt="Aypierre" width="76" height="76" />
+    </a>
 </p>
