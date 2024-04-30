@@ -244,7 +244,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
         <img src="https://gaming-cdn.com/images/avatars/20860359-1685554038.jpg" alt="Mitasims" width="76" height="76" />
     </a>     
     <a href="https://www.instant-gaming.com/en/giveaway/officialinvictus?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://www.instant-gaming.com/en/user/OfficialInvictus" alt="Official Invictus" width="76" height="76" />
+        <img src="https://gaming-cdn.com/images/avatars/21241269-1689851267.jpg" alt="Official Invictus" width="76" height="76" />
     </a>     
 </p>
 
