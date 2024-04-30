@@ -76,9 +76,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/fr/giveaway/YANKA?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/17791717-1684537536.jpg" alt="Yanka" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/cissouryne?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/7984380-1676733343.jpg" alt="Cissouryne" width="76" height="76" />
-    </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/STREAMRUNNERS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15530490-1634564097.jpg" alt="StreamRunners" width="76" height="76" />
     </a> 
@@ -192,9 +189,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/fr/giveaway/CORYPHEUS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15398397-1632480753.jpg" alt="Corypheus" width="76" height="76" />
     </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/DERSORBUS?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/8739832-1572541038.jpg" alt="DerSorbus Official IG partner" width="76" height="76" />
-    </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/THETJI?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/17123566-1647950384.jpg" alt="Tij" width="76" height="76" />
     </a> 
@@ -233,9 +227,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/INSTANTGAMINGPL?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/2700115-1699892940.jpg" alt="InstantGamingPL" width="76" height="76" />
-    </a> 
-    <a href="https://www.instant-gaming.com/fr/giveaway/sharky?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/5230971-1677019101.jpg" alt="Sharky Official IG partner" width="76" height="76" />
     </a> 
     <a href="https://www.instant-gaming.com/fr/giveaway/KAMUSLOL?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15057103-1651783439.jpg" alt="KamusLoL" width="76" height="76" />
@@ -305,4 +296,13 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
     </a>
+    <a href="https://www.instant-gaming.com/fr/giveaway/DERSORBUS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/8739832-1572541038.jpg" alt="DerSorbus Official IG partner" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/sharky?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/5230971-1677019101.jpg" alt="Sharky Official IG partner" width="76" height="76" />
+    </a> 
+    <a href="https://www.instant-gaming.com/fr/giveaway/cissouryne?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/7984380-1676733343.jpg" alt="Cissouryne" width="76" height="76" />
+    </a> 
 </p>
