@@ -246,6 +246,9 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/en/giveaway/officialinvictus?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/21241269-1689851267.jpg" alt="Official Invictus" width="76" height="76" />
     </a>     
+    <a href="https://www.instant-gaming.com/en/giveaway/beefysmashdoods?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/23538384-1709550106.jpg" alt="Beefy Smash Doods" width="76" height="76" />
+    </a>     
 </p>
 
 ### Not working anymore
