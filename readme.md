@@ -240,6 +240,9 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a href="https://www.instant-gaming.com/en/giveaway/snedgie?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/23507458-1709662317.jpg" alt="snedgie" width="76" height="76" />
     </a> 
+    <a href="https://www.instant-gaming.com/en/giveaway/mitasims?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/20860359-1685554038.jpg" alt="Mitasims" width="76" height="76" />
+    </a>         
     <!-- <a href="" target="_blank" rel="noreferrer">
         <img src="" alt="" width="76" height="76" />
     </a> 
