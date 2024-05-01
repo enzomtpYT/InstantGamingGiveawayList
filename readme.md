@@ -275,7 +275,10 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>       
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/CYBERLUK?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/9983452-1617873810.jpg" alt="CyberLuk" width="76" height="76" />
-    </a>        
+    </a>    
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
+    </a>    
 </p>
 
 ### Not working anymore
@@ -317,9 +320,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/DIOGOESTEVES?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15100457-1629461201.jpg" alt="DiogoEsteves91" width="76" height="76" />
     </a> 
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/DERSORBUS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/8739832-1572541038.jpg" alt="DerSorbus Official IG partner" width="76" height="76" />
     </a> 
