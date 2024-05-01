@@ -9,7 +9,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
 
 ### Giveaways
 
-<p align="left">
+<p id="giveaways" align="left">
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/11592592-1594037728.jpg" alt="Aypierre" width="76" height="76" />
     </a>
