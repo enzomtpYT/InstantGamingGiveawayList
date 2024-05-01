@@ -249,6 +249,33 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/beefysmashdoods?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/23538384-1709550106.jpg" alt="Beefy Smash Doods" width="76" height="76" />
     </a>     
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/GCA?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/3773947-1698238052.jpg" alt="Creators Area" width="76" height="76" />
+    </a>      
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/tahva?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/10646155-1708975800.jpg" alt="Tahva" width="76" height="76" />
+    </a>       
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/frankieslair?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/23820479-1712567596.jpg" alt="Frankie's Lair" width="76" height="76" />
+    </a>     
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/GIORNOGAMING?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/4011018-1561985872.jpg" alt="GiornoGaming" width="76" height="76" />
+    </a>       
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/SOLOUMIDO?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/12543134-1662069422.jpg" alt="Soloumido" width="76" height="76" />
+    </a>       
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/cooptv?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="CoopTV" width="76" height="76" />
+    </a>     
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/GAMERSITACOMMUNITY?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/11758153-1595930018.jpg" alt="GamersITA Community" width="76" height="76" />
+    </a>       
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/queltaleale?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/857289-1687160343.jpg" alt="QuelTaleAle" width="76" height="76" />
+    </a>       
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/CYBERLUK?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/9983452-1617873810.jpg" alt="CyberLuk" width="76" height="76" />
+    </a>        
 </p>
 
 ### Not working anymore
