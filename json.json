@@ -1,6 +1,5 @@
 {
     "alive": [
-        "AYPIERRE",
         "BOBLENNON",
         "PIXIA",
         "chaouki",
@@ -92,6 +91,7 @@
         "STELIUS"
     ],
     "dead": [
+        "AYPIERRE",
         "linca",
         "MFGAMING",
         "RADWEASEL",
