@@ -10,9 +10,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
 ### Giveaways
 
 <p id="giveaways" align="left">
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/11592592-1594037728.jpg" alt="Aypierre" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/BOBLENNON?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12254287-1660306272.jpg" alt="Bob Lennon" width="76" height="76" />
     </a> 
@@ -284,6 +281,9 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
 ### Not working anymore
 
 <p align="left">
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/AYPIERRE?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/11592592-1594037728.jpg" alt="Aypierre" width="76" height="76" />
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/linca?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/19908306-1688124711.jpg" alt="Linca" width="76" height="76" />
     </a>
