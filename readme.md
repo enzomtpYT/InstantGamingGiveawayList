@@ -1,11 +1,14 @@
 # InstantGaming's Giveaway List
 
-## How do i do ?
+## How do i do?
 
 ### Manually
-You just need to create an account on Instant Gaming Website, click on each image below and follow the instruction given by the website !
+
+You just need to create an account on Instant Gaming Website, click on each image below and follow the instruction given by the website!
+
 ### Automatic
-Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate
+
+Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate.
 
 ### Giveaways
 
@@ -129,6 +132,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/POKEMONMILLENNIUM?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/8857101-1582127081.jpg" alt="Pokemon Millennium" width="76" height="76"/>
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/AQUIYAHORA?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/5219782-1581748271.jpg" alt="AquiyAhora" width="76" height="76" />
     </a> 
@@ -176,7 +180,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/ITERMOSIFONI?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/811973-1557938063.jpg" alt="i Termosifoni" width="76" height="76" />
-    </a>  
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/CORYPHEUS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15398397-1632480753.jpg" alt="Corypheus" width="76" height="76" />
     </a> 
@@ -233,43 +237,106 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/mitasims?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/20860359-1685554038.jpg" alt="Mitasims" width="76" height="76" />
-    </a>     
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/officialinvictus?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/21241269-1689851267.jpg" alt="Official Invictus" width="76" height="76" />
-    </a>     
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/beefysmashdoods?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/23538384-1709550106.jpg" alt="Beefy Smash Doods" width="76" height="76" />
-    </a>     
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/GCA?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/3773947-1698238052.jpg" alt="Creators Area" width="76" height="76" />
-    </a>      
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/tahva?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/10646155-1708975800.jpg" alt="Tahva" width="76" height="76" />
-    </a>       
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/frankieslair?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/23820479-1712567596.jpg" alt="Frankie's Lair" width="76" height="76" />
-    </a>     
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/GIORNOGAMING?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/4011018-1561985872.jpg" alt="GiornoGaming" width="76" height="76" />
-    </a>       
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/SOLOUMIDO?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12543134-1662069422.jpg" alt="Soloumido" width="76" height="76" />
-    </a>       
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/cooptv?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="CoopTV" width="76" height="76" />
-    </a>     
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/GAMERSITACOMMUNITY?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/11758153-1595930018.jpg" alt="GamersITA Community" width="76" height="76" />
-    </a>       
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/queltaleale?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/857289-1687160343.jpg" alt="QuelTaleAle" width="76" height="76" />
-    </a>       
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/CYBERLUK?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/9983452-1617873810.jpg" alt="CyberLuk" width="76" height="76" />
-    </a>    
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/STELIUS?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/6294915-1637162339.jpg" alt="Stelius" width="76" height="76" />
-    </a>    
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/CSGOFR?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/1994535-1695849965.jpg" alt="CS France" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/EXOMADARA?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/859995-1693223960.jpg" alt="ExoMadara" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/CALLAQUENOVEO?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/18994389-1692445235.jpg" alt="CallaQueNoVeo" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pt/giveaway/KWOREY?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/1599623-1603853393.jpg" alt="kworey" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pl/giveaway/shiniwaifu?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/23961129-1715698096.jpg" alt="shini_waifu" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/PHOTORACERTV?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/11519077-1621966067.jpg" alt="PhotoRacerTV" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/ARLAN360?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/19166590-1670176579.jpg" alt="Arlan360" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/j0nathan?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/32491-1612461730.jpg" alt="j0nathan" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/HEIKKI360?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/7276336-1553876546.jpg" alt="Heikki360" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/topgames?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/3694635-1636126807.jpg" alt="Top Games" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/CABRAVOLADORA?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/367168-1463061235.jpg" alt="CabraVoladora" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/kemist?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/7994803-1650052388.jpg" alt="KEMIST" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pl/giveaway/DRWAL?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16373643-1644843063.jpg" alt="Drwal Rębajło" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pl/giveaway/MERTA?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16704111-1643815283.jpg" alt="Merta" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/doctorgame?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/23916965-1713908032.jpg" alt="Doctor Game" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/IMPAKT?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/9828884-1649672897.jpg" alt="impaKt" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pl/giveaway/kiszak?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16472848-1693834365.jpg" alt="Kiszak" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pt/giveaway/playluque?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/21036547-1687441412.jpg" alt="PlayLuque" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/STRADI?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/2544880-1691670477.jpg" alt="Stradi" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/poro?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24150014-1715595420.jpg" alt="poro" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/DESASTRESHOW?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/1897045-1617093992.jpg" alt="Desastre Show" width="76" height="76" />
+    </a>
 </p>
 
 ### Not working anymore
