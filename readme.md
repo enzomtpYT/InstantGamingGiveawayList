@@ -196,9 +196,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/GONCALOFROES?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15389337-1659363715.jpg" alt="GoncaloFroes" width="76" height="76" />
     </a> 
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/HOROKUSSA?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6407964-1698913270.jpg" alt="HoroGaming" width="76" height="76" />
-    </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/biffa?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/21867230-1698315461.jpg" alt="Biffa Plays" width="76" height="76" />
     </a> 
@@ -396,4 +393,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/kemist?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7994803-1650052388.jpg" alt="KEMIST" width="76" height="76" />
     </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/HOROKUSSA?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6407964-1698913270.jpg" alt="HoroGaming" width="76" height="76" />
+    </a> 
 </p>
