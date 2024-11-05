@@ -321,6 +321,15 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/DESASTRESHOW?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/1897045-1617093992.jpg" alt="Desastre Show" width="76" height="76" />
+    </a> 
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/JOFRIK99?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16861995-1676462477.jpg" alt="jofrik99" width="76" height="76" />
+    </a> 
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/kemist?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/7994803-1650052388.jpg" alt="KEMIST" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/MFGAMING?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/17307721-1649242244.jpg" alt="MFGAMING" width="76" height="76" />
     </a>
 </p>
 
@@ -332,9 +341,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/linca?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/19908306-1688124711.jpg" alt="Linca" width="76" height="76" />
-    </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/MFGAMING?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/17307721-1649242244.jpg" alt="MFGAMING" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/RADWEASEL?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/1963208-1580302628.jpg" alt="Rad Weasel" width="76" height="76" />
@@ -380,18 +386,12 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/EUROGAMERPT?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/17661741-1655123091.jpg" alt="EurogamerPT" width="76" height="76" />
-    </a> 
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/JOFRIK99?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/16861995-1676462477.jpg" alt="jofrik99" width="76" height="76" />
-    </a> 
+    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/KAMUSLOL?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/15057103-1651783439.jpg" alt="KamusLoL" width="76" height="76" />
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/cooptv?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="CoopTV" width="76" height="76" />
-    </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/kemist?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/7994803-1650052388.jpg" alt="KEMIST" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/HOROKUSSA?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/6407964-1698913270.jpg" alt="HoroGaming" width="76" height="76" />
