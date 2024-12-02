@@ -397,6 +397,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
         <img src="https://gaming-cdn.com/images/avatars/23916965-1713908032.jpg" alt="Doctor Game" width="76" height="76" />
     </a>
     <a class="giveaway" href="[ttps://www.instant-gaming.com/it/giveaway/EricLostie?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/23916965-1713908032.jpg" alt="EricLostie" width="76" height="76" />
+        <img src="https://gaming-cdn.com/images/avatars/9027557-1575631770.jpg" alt="EricLostie" width="76" height="76" />
     </a>
 </p>
