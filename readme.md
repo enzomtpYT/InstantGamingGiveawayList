@@ -298,9 +298,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/heystan?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="HeyStan" width="76" height="76" />
     </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/TraKe?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/6419974-1729513520.jpg" alt="TraKe" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/cryssness?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/3516897-1720037077.jpg" alt="Cryssness" width="76" height="76" />
     </a>
@@ -316,8 +313,11 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/chelseahonk?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/25176461-1730542890.jpg" alt="Chelseahonk" width="76" height="76" />
     </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/Bayliun?igr=enzomtp" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/25627865-1728920835.jpg" alt="Bayliun" width="76" height="76" />
+    <a class="giveaway" href="https://www.instant-gaming.com/pt/giveaway/quantoquevaicustar?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24567717-1719927759.jpg" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pt/giveaway/eusouocap?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/25089307-1725023867.jpg" alt="Chelseahonk" width="76" height="76" />
     </a>
 </p>
 
@@ -425,5 +425,11 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/kahrilo?igr=enzomtp" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/14557636-1691925369.jpg" alt="Kahrilo" width="76" height="76" />
+    </a>
+     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/TraKe?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/6419974-1729513520.jpg" alt="TraKe" width="76" height="76" />
+    </a>
+        <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/Bayliun?igr=enzomtp" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/25627865-1728920835.jpg" alt="Bayliun" width="76" height="76" />
     </a>
 </p>
