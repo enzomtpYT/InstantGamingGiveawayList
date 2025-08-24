@@ -319,6 +319,12 @@ Install [this userscript](https://github.com/jahaYT/InstantGaming-Giveaway-AutoP
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/pixelade?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/25779964-1730223397.jpg" alt="Pixelade" width="76" height="76" />
     </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/carinazinhaa?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/4215295-1622219100.jpg" alt="Carinazinhaa" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/huebi?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/25729334-1731956009.jpg " alt="Huebi" width="76" height="76" />
+    </a>
 </p>
 
 ### Not working anymore
