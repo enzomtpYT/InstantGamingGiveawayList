@@ -8,7 +8,7 @@ You just need to create an account on Instant Gaming Website, click on each imag
 
 ### Automatic
 
-Install [this userscript](https://github.com/jahaYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate.
+Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate.
 
 ### Giveaways
 
@@ -323,7 +323,7 @@ Install [this userscript](https://github.com/jahaYT/InstantGaming-Giveaway-AutoP
         <img src="https://gaming-cdn.com/images/avatars/4215295-1622219100.jpg" alt="Carinazinhaa" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/huebi?igr=jaha" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/25729334-1731956009.jpg " alt="Huebi" width="76" height="76" />
+        <img src="https://gaming-cdn.com/images/avatars/25729334-1731956009.jpg" alt="Huebi" width="76" height="76" />
     </a>
 </p>
 
