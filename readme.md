@@ -325,6 +325,9 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/huebi?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/25729334-1731956009.jpg" alt="Huebi" width="76" height="76" />
     </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/miriampetricor?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/28376726-1752697731.jpg" alt="Miriam Petricor" width="76" height="76" />
+    </a>
 </p>
 
 ### Not working anymore
@@ -500,9 +503,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/ilvado?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7406671-1728574369.jpg" alt="ilVado" width="76" height="76" />
-    </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/miriampetricor?igr=jaha" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/28376726-1752697731.jpg" alt="Miriam Petricor" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/locklear?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="locklear" width="76" height="76" />
