@@ -8,7 +8,7 @@ You just need to create an account on Instant Gaming Website, click on each imag
 
 ### Automatic
 
-Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate.
+Install [this userscript](https://github.com/jahaYT/InstantGaming-Giveaway-AutoParticipate) and let it automatically participate.
 
 ### Giveaways
 
@@ -117,7 +117,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/vicio?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/881499-1523615431.jpg" alt="vicio" width="76" height="76" />
-    </a>  
+    </a> 
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/INSTANTGAMINGITALIA?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/7534356-1687868492.jpg" alt="InstantGamingIT" width="76" height="76" />
     </a> 
@@ -283,6 +283,42 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/LUSORKOEFFIZIENT?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/8124578-1565266897.jpg" alt="lusorkoeffizient" width="76" height="76" />
     </a> 
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/joepad17?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/2165589-1610322231.jpg" alt="JoePad17" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/vutomy?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24399720-1718284555.jpg" alt="Vutomy" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/elkai?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/11213325-1724639703.jpg" alt="eLKAi" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/onlywaifu?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24159414-1715876189.jpg" alt="onlywaifu" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/cryzenx?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/12615446-1750011746.jpg" alt="CryZENx" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/naito75?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/646051-1626862718.jpg" alt="naito75" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pt/giveaway/remedy?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/20453628-1680792400.jpg" alt="MisterRemedy" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pl/giveaway/LOSIU?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/16899979-1646305428.jpg" alt="Åosiu" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/pt/giveaway/azhunky?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/26709731-1737983086.jpg" alt="Azhunky" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/ramosturbo?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/578901-1736969080.jpg" alt="Ramos Turbo" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/de/giveaway/mello?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/8725992-1714118564.jpg" alt="MELLO" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/pixelade?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/25779964-1730223397.jpg" alt="Pixelade" width="76" height="76" />
+    </a>
 </p>
 
 ### Not working anymore
@@ -432,4 +468,40 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/SEGMENT?igr=jaha" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/14447951-1677748902.jpg" alt="LE HUB" width="76" height="76" />
     </a> 
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/r3dgaming?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/25964700-1732607976.jpg" alt="r3dgaming" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/thesimsideofluca?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/26592570-1743246812.jpg" alt="thesimsideofluca" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/saiyanscholar?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24581710-1725276154.jpg" alt="Saiyan Scholar" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/primacon?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24338251-1717595669.jpg" alt="Primacon" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/mihajlodimic?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/21457696-1691774884.jpg" alt="Mihajlo Dimic" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/milkemie?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/19884319-1738598144.jpg" alt="milkemie" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/lovegamingnewtro?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/26613908-1738503799.jpg" alt="lovegamingnewtro" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/ASSETTOES?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/18448086-1661597836.jpg" alt="Assetto ES" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/it/giveaway/ilvado?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/7406671-1728574369.jpg" alt="ilVado" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/es/giveaway/miriampetricor?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/28376726-1752697731.jpg" alt="Miriam Petricor" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/locklear?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/themes/igv2/images/avatar2.svg" alt="locklear" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/minimaleffortgaming?igr=jaha" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/24884349-1723653628.jpg" alt="MinimalEffortGaming" width="76" height="76" />
+    </a>
 </p>
